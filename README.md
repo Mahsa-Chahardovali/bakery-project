@@ -4,7 +4,8 @@
 
 
 ![1](https://github.com/user-attachments/assets/f1f251df-e116-416c-b4c4-b0372bef813e)
-![1](https://github.com/user-attachments/assets/f1f251df-e116-416c-b4c4-b0372bef813e))
+![2](https://github.com/user-attachments/assets/9d188162-7324-4c0e-88cd-becbd8b04d3a)
+
 
 - [Demo Project](https://mahsa-chahardovali.github.io/bakery-project/)
 
