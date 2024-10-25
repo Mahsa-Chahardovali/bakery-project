@@ -21,5 +21,6 @@
 - Technologies Used - Html , css
 
 - Role - Frontend
+- master: @parsaghorbanian
 
 - How to reach me : with my [instagram](https://www.instagram.com/mahsa.developer_/profilecard/?igsh=MTIyYTBhMTh6cThpMQ==) and [linkedin](https://www.linkedin.com/in/mahsa-chahardovali-843999332)
