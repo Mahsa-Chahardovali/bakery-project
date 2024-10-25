@@ -3,7 +3,7 @@
 
 
 
-(![1](https://github.com/user-attachments/assets/f1f251df-e116-416c-b4c4-b0372bef813e)
+![1](https://github.com/user-attachments/assets/f1f251df-e116-416c-b4c4-b0372bef813e)
 
 - [Demo Project](https://mahsa-chahardovali.github.io/bakery-project/)
 
